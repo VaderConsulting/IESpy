@@ -21,6 +21,10 @@ VS 2008 VB.NET WinForms (.NET 3.5) working copy. On frmMain load, ScanWindows() 
 
 Open `IESpy.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 - **Assembly copyright:** Copyright ©  2008
