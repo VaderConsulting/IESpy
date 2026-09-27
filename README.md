@@ -27,6 +27,7 @@ Open `IESpy.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `IESpy`.
 - **Assembly copyright:** Copyright ©  2008
 
 ## License
