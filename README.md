@@ -1,6 +1,6 @@
 # IESpy
 
-VS 2008 VB.NET WinForms (.NET 3.5) working copy. On frmMain load, ScanWindows() GetDesktopWindow-enumerates child windows via EnumChildWindows; ChildCallback keeps titles that contain "Internet Explorer" and adds "hWnd - title" to lstAllWindows (also Console.WriteLine). ShowWindow, SendMessage, GetAsyncKeyState, and GetClassName are declared but unused. Open `IESpy.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2008 VB.NET WinForms (.NET 3.5) working copy. On frmMain load, ScanWindows() GetDesktopWindow-enumerates child windows via EnumChildWindows; ChildCallback keeps titles that contain "Internet Explorer" and adds "hWnd - title" to lstAllWindows (also Console.WriteLine). ShowWindow, SendMessage, GetAsyncKeyState, and GetClassName are declared but unused. Open `IESpy.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 **Source last updated:** 2008-05-13  
 **Language:** VB.NET  
@@ -9,7 +9,7 @@ VS 2008 VB.NET WinForms (.NET 3.5) working copy. On frmMain load, ScanWindows() 
 
 ## What it is
 
-VS 2008 VB.NET WinForms (.NET 3.5) working copy. On frmMain load, ScanWindows() GetDesktopWindow-enumerates child windows via EnumChildWindows; ChildCallback keeps titles that contain "Internet Explorer" and adds "hWnd - title" to lstAllWindows (also Console.WriteLine). ShowWindow, SendMessage, GetAsyncKeyState, and GetClassName are declared but unused. Open `IESpy.sln`. This is a historical working copy from Dave Robinson / VaderConsulting.
+VS 2008 VB.NET WinForms (.NET 3.5) working copy. On frmMain load, ScanWindows() GetDesktopWindow-enumerates child windows via EnumChildWindows; ChildCallback keeps titles that contain "Internet Explorer" and adds "hWnd - title" to lstAllWindows (also Console.WriteLine). ShowWindow, SendMessage, GetAsyncKeyState, and GetClassName are declared but unused. Open `IESpy.sln`. This is a historical working copy from Dave Robinson / Vader Consulting.
 
 ## Solution structure
 
